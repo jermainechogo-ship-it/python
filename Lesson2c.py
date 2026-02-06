@@ -28,3 +28,8 @@ player = {
 
 print(player["teams"][1])
 
+print("==========================")
+planets = ("mercury","venus","Earth","Mars","Jupiter","Saturn","Uranus","Neptune")
+print(type(planets))
+print(planets)
+print(planets[2:6])
